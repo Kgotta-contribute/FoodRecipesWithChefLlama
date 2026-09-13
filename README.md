@@ -35,7 +35,7 @@
 ## 🏗️ Architecture
 
 ```
-[React 18 + Vite Frontend]
+[React 18 + Vite Frontend] 
          │
          │  POST /api/generateRecipe
          ▼
